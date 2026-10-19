@@ -1,0 +1,6 @@
+{
+  "name": "BookVerse",
+  "description": "Modern book discovery and reading companion. Search books with flexible queries, explore curated collections, view rich book details, and manage favorite books with offline persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
